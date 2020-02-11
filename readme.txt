@@ -1,1 +1,2 @@
-Let's learn git.
+Let us learn git.
+something new was adding ....
